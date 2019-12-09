@@ -42,7 +42,7 @@
     "scripts": {
         "test": "make test"
     },
-    "version": "0.19.3",
+    "version": "1.2.15",
     "zsh-data": {
         "plugin-info": {
             "user": "pyenv",
