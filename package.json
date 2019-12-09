@@ -42,7 +42,7 @@
     "scripts": {
         "test": "make test"
     },
-    "version": "1.2.15",
+    "version": "1.2.16",
     "zsh-data": {
         "plugin-info": {
             "user": "pyenv",
@@ -62,7 +62,6 @@
             },
             "bgn": {
                 "requires": "bgn",
-
                 "lucid": "",
                 "as": "null",
                 "atclone": "PYENV_ROOT=\"$PWD\" ./libexec/pyenv init - > zpyenv.zsh",
