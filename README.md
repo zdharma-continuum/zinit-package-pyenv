@@ -34,7 +34,8 @@ zplugin pack"bgn" git for pyenv
 
 ## Default Profile
 
-Provides the `pyenv` version manager by extending `$PATH`.
+Provides the `pyenv` version manager by extending `$PATH` to make it point into
+the `bin` subdirectory of the plugin.
 
 The Zplugin command executed will be equivalent to:
 
