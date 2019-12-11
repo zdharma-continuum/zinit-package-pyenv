@@ -47,7 +47,8 @@
         "plugin-info": {
             "user": "pyenv",
             "plugin": "pyenv",
-            "version": "1.2.15"
+            "version": "1.2.15",
+            "requires": "bgn;bash"
         },
         "zplugin-ices": {
             "default": {
