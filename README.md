@@ -1,7 +1,5 @@
 # pyenv/pyenv as a Zsh package
 
-##### NPM link: [https://www.npmjs.com/package/zsh-pyenv](https://www.npmjs.com/package/zsh-pyenv)
-
 ##### Homepage link: [pyenv/pyenv](https://github.com/pyenv/pyenv)
 
 | **Package source:** | Source Tarball | Binary | Git | Node | Gem |
