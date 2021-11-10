@@ -6,7 +6,7 @@
 |:-------------------:|:--------------:|:------:|:---:|:----:|:---:|
 | **Status:**         |    + <br> (default) |  -  | + | – |  –  |
 
-[Zplugin](https://github.com/zdharma/zplugin) can use the NPM package registry
+[Zplugin](https://github.com/zdharma-continuum/zinit) can use the NPM package registry
 to automatically:
 
 - get the plugin's Git repository OR release-package URL,
