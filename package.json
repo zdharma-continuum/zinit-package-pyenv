@@ -50,7 +50,7 @@
             "version": "1.2.20",
             "requires": "bgn;bash"
         },
-        "zplugin-ices": {
+        "zinit-ices": {
             "default": {
                 "lucid": "",
                 "as": "command",
